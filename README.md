@@ -66,7 +66,7 @@ Building clean web apps · Freelance · Based in Morocco
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=suufiaane13&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=suufiaane13&theme=gruvbox&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=suufiaane13&theme=gruvbox&hide_border=true)
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suufiaane13&theme=gruvbox&hide_border=true&layout=compact)
 
