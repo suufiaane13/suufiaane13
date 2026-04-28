@@ -77,4 +77,4 @@ Building clean web apps · Freelance · Based in Morocco
 > *I once built a weather app just to decide if I should bring snacks to the park.*
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/suuf.iaane)
-[![Visits](https://visitcount.itsvg.in/api?id=suufiaane13&icon=7&color=1)](https://visitcount.itsvg.in)
+![Visits](https://komarev.com/ghpvc/?username=suufiaane13&style=flat-square&color=blue)
